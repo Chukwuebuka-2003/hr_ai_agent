@@ -1,0 +1,4 @@
+streamlit
+langchain
+PyPDF2
+python-docx
