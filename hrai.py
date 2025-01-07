@@ -15,7 +15,7 @@ BACKEND_URL = "https://ebuka-hrai.onrender.com"
 MODEL_NAME = "groq/Gemma2-9b-it"  # Default model name
 
 # Streamlit App with Tabs
-st.title("AI-Powered HR Tools")
+st.title("AI Agent Powered HR Tools")
 tab1, tab2 = st.tabs(["Resume Reviewer", "HR Question Assistant"])
 
 # Sidebar with Example HR Questions
