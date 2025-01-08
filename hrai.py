@@ -12,7 +12,7 @@ st.set_page_config(
 
 # Backend API URL
 BACKEND_URL = "https://ebuka-hrai.onrender.com"
-MODEL_NAME = "groq/Gemma2-9b-it"  # Default model name
+MODEL_NAME = "groq/llama-3.3-70b-versatile"  # Default model name
 
 # Streamlit App with Tabs
 st.title("AI Agent Powered HR Tools")
